@@ -114,9 +114,7 @@ This project integrates multiple core embedded technologies across sensing, comm
   - 4.7 kΩ resistors on I2C lines (SDA, SCL) for stable communication.
 - **Decoupling Capacitors**
   - Used for analog sensors and op-amps to reduce noise and transient voltage spikes.
-- **Voltage Follower Buffers (Optional)**
-  - For impedance matching and signal conditioning (not needed in final design but evaluated).
-
+    
 ---
 
 
