@@ -1,6 +1,5 @@
 # 🔋 Battery Monitoring System – STM32F411 Project
 
-> Developed by: **Vaishnavi Jadhav** & **Darshan Salian**  
 > Course: ECEN 5613 – Embedded System Design  
 > Date: December 2024  
 
