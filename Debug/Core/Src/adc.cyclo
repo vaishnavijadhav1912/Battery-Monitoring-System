@@ -1,0 +1,8 @@
+../Core/Src/adc.c:16:6:MX_ADC1_Init	2
+../Core/Src/adc.c:60:6:ADC_Select_CH10	2
+../Core/Src/adc.c:79:6:ADC_Select_CH11	2
+../Core/Src/adc.c:98:6:ADC_Select_CH12	2
+../Core/Src/adc.c:118:6:ADC_Select_CH13	2
+../Core/Src/adc.c:138:6:ADC_Select_CH14	2
+../Core/Src/adc.c:152:6:GetTempData	1
+../Core/Src/adc.c:199:6:GetCurrentData	1

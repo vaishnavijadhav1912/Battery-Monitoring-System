@@ -1,0 +1,6 @@
+../Core/Src/EEPROM.c:16:6:I2C2_Init	1
+../Core/Src/EEPROM.c:49:6:I2C2_Start	2
+../Core/Src/EEPROM.c:62:6:I2C2_Stop	1
+../Core/Src/EEPROM.c:75:6:I2C2_byteRead	6
+../Core/Src/EEPROM.c:114:6:I2C2_BurstRead	10
+../Core/Src/EEPROM.c:169:6:I2C2_BurstWrite	7
