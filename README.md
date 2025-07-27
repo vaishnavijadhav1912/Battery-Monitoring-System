@@ -46,6 +46,7 @@ It provides **real-time GUI display** over UART using a custom **C# Windows Form
 
 
 🧪 Testing Strategy
+
 ✅ Hardware unit testing of amplifiers, ADC scaling, EEPROM wiring
 
 ✅ Software module testing for each peripheral before integration
